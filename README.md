@@ -10,5 +10,5 @@ Hello world!
 
 Bueno, vamos a probar una rama, Feature-X
 
+Conflict resolved!
 
-Conflict!
