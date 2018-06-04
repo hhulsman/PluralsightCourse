@@ -9,3 +9,6 @@ Y a ver cómo se comportaría esto con carácteres especiales, como la Ñ, y la 
 Hello world!
 
 Bueno, vamos a probar una rama, Feature-X
+
+
+Conflicting 2
