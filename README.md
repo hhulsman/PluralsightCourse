@@ -1,4 +1,4 @@
-## Prueba
-# Primera prueba, ahora con Pluralsight course
+# Prueba
+## Primera prueba, ahora con Pluralsight course
 
 Hello world!
